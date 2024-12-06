@@ -1,0 +1,6 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Disallow:
+
+# 爬虫访问其他资源
+Sitemap: https://sprunkimod.app/en/sitemap.xml
